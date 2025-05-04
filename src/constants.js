@@ -42,7 +42,7 @@ export const experiences = [
   {
     id: 0,
     img: 'https://images.deepai.org/art-image/60ead9cd720c47f7a47f3f094865b78e/oops-info-solution-pvt-limited-compony-containing-all.jpg', // or placeholder if logo unavailable
-    role: 'Fullstack Developer',
+    role: 'Fullstack Developer Intern',
     company: 'Oops Info Solutions',
     date: 'Feb 2025 - May 2025',
     desc: 'Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.',
